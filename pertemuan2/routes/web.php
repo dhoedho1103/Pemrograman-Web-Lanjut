@@ -49,6 +49,6 @@ return view('politeknik.mahasiswa',['mahasiswa' => $arrMahasiswa]);
 
 
 Route::get('/dosen', function(){
-    $arrDosen = ["Pak Bagas", "Pak Dimas", "Pak Anugerah", "Pak Hendra"];
+    $arrDosen = ["Pak Bagas 15", "Pak Dimas", "Pak Anugerah", "Pak Hendra"];
 return view('politeknik.dosen',['dosen' => $arrDosen]);
 });
