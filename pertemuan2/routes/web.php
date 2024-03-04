@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WelcomeController;
+use App\Http\Controllers\PageController;
 
 //Routing
     //Basic Routing
@@ -38,6 +39,10 @@ Route::get('/user/{name?}', function ($name=null) {
 });
 
 Route::get('/hello', [WelcomeController::class,'hello']);
+
+Route::get('/index', [PageController::class,'index']);
+
+Route::get('/about', [PageController::class,'about']);
 
 
 Route::get('/mahasiswa', function(){
