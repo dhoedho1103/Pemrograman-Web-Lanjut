@@ -3,6 +3,9 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WelcomeController;
 use App\Http\Controllers\PageController;
+use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AboutController;
+use App\Http\Controllers\ArticleController;
 
 //Routing
     //Basic Routing
@@ -38,12 +41,21 @@ Route::get('/user/{name?}', function ($name=null) {
     return 'Nama saya '.$name;
 });
 
-Route::get('/hello', [WelcomeController::class,'hello']);
+// Route::get('/hello', [WelcomeController::class,'hello']);
 
-Route::get('/index', [PageController::class,'index']);
+// Route::get('/index', [PageController::class,'index']);
 
-Route::get('/about', [PageController::class,'about']);
+// Route::get('/about', [PageController::class,'about']);
 
+// Route::get('/articles/{Id}', function($Id) {
+//     return 'Halaman Artikel dengan ID : '.$Id;
+// });
+
+Route::get('/home', [HomeController::class,'home']);
+Route::get('/about', [AboutController::class,'about']);
+Route::get('/articles/{Id}', function($Id) {
+    return 'Halaman Artikel dengan ID : '.$Id;
+});
 
 Route::get('/mahasiswa', function(){
 $arrMahasiswa = ["Achmad Ridla Shobriy", "Ahmad Maulana Dani", 

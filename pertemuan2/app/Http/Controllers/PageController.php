@@ -11,5 +11,10 @@ class PageController extends Controller{
     public function about(){
         return 'Achmad Ridla Shobriy | NIM 2141762070';
     }
+
+    public function artticles(){
+        return 'Halaman artikel dengan id';
+    }
 }
+
 
