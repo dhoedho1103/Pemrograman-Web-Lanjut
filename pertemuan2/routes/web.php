@@ -7,6 +7,8 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ArticleController;
 
+
+
 //Routing
     //Basic Routing
 Route::get('/hello', function () {
@@ -56,6 +58,26 @@ Route::get('/about', [AboutController::class,'about']);
 Route::get('/articles/{Id}', function($Id) {
     return 'Halaman Artikel dengan ID : '.$Id;
 });
+
+use App\Http\Controllers\PhotoController;
+Route::resource('photos', PhotoController::class);
+Route::resource('photos', PhotoController::class)->only([
+    'index', 'show'
+   ]);
+
+Route::resource('photos', PhotoController::class)->except([
+   'create', 'store', 'update', 'destroy'
+   ]);
+
+Route::get('/greeting', function () {
+    return view('hello', ['name' => 'Achmad']);
+});
+
+Route::get('/greeting', function () {
+    return view('blog.hello', ['name' => 'Maulana']);
+});
+
+Route::get('/greeting', [WelcomeController::class, 'greeting']);
 
 Route::get('/mahasiswa', function(){
 $arrMahasiswa = ["Achmad Ridla Shobriy", "Ahmad Maulana Dani", 
