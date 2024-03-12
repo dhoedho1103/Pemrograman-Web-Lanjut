@@ -18,6 +18,17 @@
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/c5b0488e-0477-409f-8425-caa36c67a0ab)
 
-4. 
+3. Hasil langkah 6 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/6af05f88-54ac-4952-a796-755bc9cbfa69)
+
+4. Hasil langkah 8 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/d30d8132-546e-486d-9b54-c1c28a988c53)
+
+5. Hasil langkah 10 :
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/fcffcb88-3ec5-443b-86e6-5feb9bd6cd49)
+
+   terjadi 404 not found karena id 20 tidak ada.
 
 
