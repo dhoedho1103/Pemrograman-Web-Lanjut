@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title> Data Level Pengguna</title>
+        <title> Data User</title>
     </head>
     <body>
-        <h1> Data Level Pengguna</h1>
+        <h1> Data User</h1>
         <table border="1" cellpadding="2" cellspasing="0">
             <tr>
                 <th>ID</th>
