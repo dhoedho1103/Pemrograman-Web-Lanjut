@@ -197,6 +197,6 @@ class PenjualanDetailSeeder extends Seeder
             ],
         ];
 
-        DB::table('t_penjualan_detail')->insert($data);
+        DB::table('m_penjualan_detail')->insert($data);
     }
 }

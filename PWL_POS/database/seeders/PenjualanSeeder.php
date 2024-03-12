@@ -17,76 +17,76 @@ class PenjualanSeeder extends Seeder
             // 10 penjualan data
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Ayu',
                 'penjualan_kode' => 'P001',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Gelis',
                 'penjualan_kode' => 'P002',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Jojo',
                 'penjualan_kode' => 'P003',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Pia',
                 'penjualan_kode' => 'P004',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Gala',
                 'penjualan_kode' => 'P005',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Moci',
                 'penjualan_kode' => 'P006',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Rudy',
                 'penjualan_kode' => 'P007',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'Fany',
                 'penjualan_kode' => 'P008',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'leki',
                 'penjualan_kode' => 'P009',
                 'penjualan_tanggal' => now(),
             ],
             [
                 'penjualan_tanggal' => now(),
-                'user_id' => 3,
+                'id_user' => 3,
                 'pembeli' => 'ferlo',
                 'penjualan_kode' => 'PK010',
                 'penjualan_tanggal' => now(),
             ],
         ];
 
-        DB::table('t_penjualan')->insert($data);
+        DB::table('m_penjualan')->insert($data);
     }
 }

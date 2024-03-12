@@ -76,6 +76,6 @@ class StokSeeder extends Seeder
             ],
         ];
 
-        DB::table('t_stok')->insert($data);
+        DB::table('m_stock')->insert($data);
     }
 }
