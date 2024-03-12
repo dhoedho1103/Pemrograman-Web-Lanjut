@@ -25,8 +25,37 @@ class UserController extends Controller
     // }
 
     //Praktikum 2.1
-    public function index(){
-      $user = UserModel::find(1);
-      return view('user', ['data' => $user]);
-    }
+    //langkah 1
+    // public function index(){
+    //   $user = UserModel::find(1);
+    //   return view('user', ['data' => $user]);
+    // }
+    
+    //langkah 4
+    // public function index(){
+    //   $user = UserModel::where('level_id', 1)->first();
+    //   return view('user', ['data' => $user]);
+    // }
+
+    //langkah 6
+    // public function index(){
+    //   $user = UserModel::firstwhere('level_id', 1);
+    //   return view('user', ['data' => $user]);
+    // }
+
+    //langkah 8
+    // public function index(){
+    //   $user = UserModel::findOr(1, ['username', 'nama'], function(){
+    //     abort(404);
+    //   });
+    //   return view('user', ['data' => $user]);
+    // }
+
+    //langkah 10
+    // public function index(){
+    //   $user = UserModel::findOr(20, ['username', 'nama'], function(){
+    //     abort(404);
+    //   });
+    //   return view('user', ['data' => $user]);
+    // }
 }
