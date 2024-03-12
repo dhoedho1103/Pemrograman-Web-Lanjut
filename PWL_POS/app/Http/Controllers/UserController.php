@@ -24,7 +24,7 @@ class UserController extends Controller
     //     return view('user', ['data' => $user]);
     // }
 
-    //Praktikum 2.1
+                                  //Praktikum 2.1
     //langkah 1
     // public function index(){
     //   $user = UserModel::find(1);
@@ -58,4 +58,8 @@ class UserController extends Controller
     //   });
     //   return view('user', ['data' => $user]);
     // }
+
+                                  //Praktikum 2.2
+    //langkah 1
+    
 }
