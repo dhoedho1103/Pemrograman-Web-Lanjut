@@ -51,5 +51,16 @@
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/230416bc-1306-4514-9a36-96828bff7bf7)
 
+### Praktikum 2.4 - Retreiving or Creating Models
+1. Hasil langkah 1 & 2 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/d2947e0c-c3d1-4937-bbf6-108898c3cedb)
+
+2. Hasil langkah 4 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/22fba0fd-018a-47ea-8d59-252b08e95c11)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/cb42d617-52e6-42a5-9769-9e07bf479bfc)
+
+
 4. 
 
