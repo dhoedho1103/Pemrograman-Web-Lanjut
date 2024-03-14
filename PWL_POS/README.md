@@ -31,4 +31,25 @@
 
    terjadi 404 not found karena id 20 tidak ada.
 
+### Praktikum 2.2 - Not Found Exception
+1. Hasil langkah 1 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/77668596-b629-4849-814e-f2eb304d26bd)
+
+3. Hasil langkah 3 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/545be8a3-f560-48b7-b06a-a297ca0c0407)
+
+   terjadi not found karena 'manager9' tidak ada
+
+### Praktikum 2.3 - Retreiving Aggregrates
+1. Hasil langkah 1 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/29f42473-62c7-4511-92a9-f5183e184b52)
+
+2. Hasil langkah 3 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/230416bc-1306-4514-9a36-96828bff7bf7)
+
+4. 
 
