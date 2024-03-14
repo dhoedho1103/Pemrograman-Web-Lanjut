@@ -61,5 +61,14 @@ class UserController extends Controller
 
                                   //Praktikum 2.2
     //langkah 1
-    
+    // public function index(){
+    //     $user = UserModel::findOrFail(1);
+    //     return view('user', ['data' => $user]);
+    // }
+
+    //langkah 3
+    public function index(){
+        $user = UserModel::where('username', 'manager9')->firstOrFail();
+        return view('user', ['data' => $user]);
+    }
 }
