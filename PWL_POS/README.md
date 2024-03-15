@@ -127,6 +127,14 @@
 
    data yang diubah disimpan di database
 
+8. Hasil langkah 18 & 19 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/df57b679-6552-44ef-884e-d2d2ac484803)
+
+   data yang dipilih untuk dihapus, sudah terhapus
+
+### Praktikum 2.7 - Relationships
+1. 
 
 
 
