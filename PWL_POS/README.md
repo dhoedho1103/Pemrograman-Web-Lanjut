@@ -75,18 +75,21 @@
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/32485a5c-8bdc-4c7c-bd38-99c2566466ad)
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/eafad6ac-ee5e-4b39-bf48-d1b73b0a5173)
+
    terjadi perubahan dengan bertambahnya user di database karena sudah tersimpan
 
 ### Praktikum 2.5 - Attribute Changes
 1. Hasil langkah 1 :
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/c4a8333f-c72e-4155-ab04-7f72d255ea48)
+
    Program menghasilkan false karena model telah disimpan. Namun, ketika dicek dengan isDirty() untuk melihat apakah data telah diubah,
    program mengembalikan nilai true karena belum ada perubahan yang dilakukan.
 
-2. Hasil langkah 3 :
+3. Hasil langkah 3 :
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/f8ac1c4e-b61a-4ab7-90d6-393f521bfa21)
+
    Program akan menghasilkan nilai true karena model telah mengalami perubahan. Jika menggunakan bantuan wasChanged(),
    walaupun sudah disimpan dengan save(), jika data memang berbeda dari yang aslinya, maka akan terdeteksi sebagai perubahan.
 
@@ -94,14 +97,14 @@
 1. Hasil langkah 1 & 2 :
 
 
-    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/a966e366-c965-4bc8-8663-6120172e9088)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/a966e366-c965-4bc8-8663-6120172e9088)
 
    menambah button tambah user, ubah, hapus
 
 3. Hasil langkah 4-6 :
 
 
-    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/582db425-6a36-4acb-8ab5-84cd1822a8f0)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/582db425-6a36-4acb-8ab5-84cd1822a8f0)
 
    jika diklik tambah user maka akan pergi ke halaman tambah user
 
