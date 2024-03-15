@@ -121,7 +121,14 @@
 
    menampilkan halaman ubah
 
-7. 
+7. Hasil langkah 15 & 16 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/1c491ac0-7eb6-4a43-aa5c-d8dbf2e33703)
+
+   data yang diubah disimpan di database
+
+
+
 
 
 
