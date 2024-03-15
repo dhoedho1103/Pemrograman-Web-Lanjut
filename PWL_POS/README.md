@@ -93,24 +93,32 @@
 ### Praktikum 2.6 - Create, Read, Update, Delete (CRUD)
 1. Hasil langkah 1 & 2 :
 
-   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/a966e366-c965-4bc8-8663-6120172e9088)
+
+    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/a966e366-c965-4bc8-8663-6120172e9088)
+
    menambah button tambah user, ubah, hapus
 
-2. Hasil langkah 4-6 :
+3. Hasil langkah 4-6 :
 
-   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/582db425-6a36-4acb-8ab5-84cd1822a8f0)
+
+    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/582db425-6a36-4acb-8ab5-84cd1822a8f0)
+
    jika diklik tambah user maka akan pergi ke halaman tambah user
 
-3. Hasil langkah 8 & 9 :
+5. Hasil langkah 8 & 9 :
+
 
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/1cb7cf90-7d8a-4057-a676-8256f49aa338)
+
    user akan bertambah sesuai dengan isi form
 
-4. Hasil langkah 11-13 :
+6. Hasil langkah 11-13 :
+
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/d6ddb6d2-c427-4d21-81b9-d178fc213cf5)
+
    menampilkan halaman ubah
 
-5. 
+7. 
 
 
 
