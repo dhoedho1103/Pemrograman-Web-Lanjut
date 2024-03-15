@@ -31,4 +31,52 @@
 
    terjadi 404 not found karena id 20 tidak ada.
 
+### Praktikum 2.2 - Not Found Exception
+1. Hasil langkah 1 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/77668596-b629-4849-814e-f2eb304d26bd)
+
+3. Hasil langkah 3 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/545be8a3-f560-48b7-b06a-a297ca0c0407)
+
+   terjadi not found karena 'manager9' tidak ada
+
+### Praktikum 2.3 - Retreiving Aggregrates
+1. Hasil langkah 1 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/29f42473-62c7-4511-92a9-f5183e184b52)
+
+2. Hasil langkah 3 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/230416bc-1306-4514-9a36-96828bff7bf7)
+
+### Praktikum 2.4 - Retreiving or Creating Models
+1. Hasil langkah 1 & 2 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/d2947e0c-c3d1-4937-bbf6-108898c3cedb)
+
+2. Hasil langkah 4 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/22fba0fd-018a-47ea-8d59-252b08e95c11)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/cb42d617-52e6-42a5-9769-9e07bf479bfc)
+
+4. Hasil langkah 6 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/1b334617-5c6b-42ed-b7f1-0763d8395c85)
+
+5. Hasil langkah 8 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/7a4f00e1-6ca8-4966-a0a6-84ea43c917e5)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/66d8e899-1138-434d-8b9e-84ec39284bc9)
+   tidak ada perubahan karena belum tersimpan di dalam database
+
+7. Hasil langkah 10 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/32485a5c-8bdc-4c7c-bd38-99c2566466ad)
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/eafad6ac-ee5e-4b39-bf48-d1b73b0a5173)
+   terjadi perubahan dengan bertambahnya user di database karena sudah tersimpan
+
+
+
 
