@@ -134,7 +134,17 @@
    data yang dipilih untuk dihapus, sudah terhapus
 
 ### Praktikum 2.7 - Relationships
-1. 
+1. Hasil langkah 1 & 2 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/81dfbc2d-7b86-4ffe-8d87-3c0205f2fb0f)
+
+2. Hasil langkah 4 & 5 :
+
+   ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/93d5e029-62c5-414b-8279-33e04d13db5e)
+
+   menampilkan id level, kode level dan nama level
+
+
 
 
 
