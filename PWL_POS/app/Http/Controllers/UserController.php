@@ -244,8 +244,14 @@ class UserController extends Controller
 
                                           //Praktikum 2.7
     //langkah 2
+    // public function index(){
+    //     $user = UserModel::with('level')->get();
+    //     dd($user);
+    // }
+
+    //langkah 4
     public function index(){
-        $user = UserModel::with('m_level')->get();
-        dd($user);
+        $user = UserModel::with('level')->get();
+        return view('user', ['data'=> $user]);
     }
 }
