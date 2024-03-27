@@ -10,27 +10,24 @@ return new class extends Migration
      * Run the migrations.
      */
     public function up(): void
-{
-
+    {
         Schema::create('m_user', function (Blueprint $table) {
-            $table->id('id_user');
+            $table->id('user_id');
             $table->unsignedBigInteger('level_id')->index();
-            $table->string('username', 20)->unique();   
+            $table->string('username', 20)->unique();
             $table->string('nama', 100);
             $table->string('password');
             $table->timestamps();
 
-            $table->foreign('level_id')->references('lvl_id')->on('m_level');
-
+            $table->foreign(('level_id'))->references('level_id')->on('m_level');
         });
-}
+    }
+
     /**
      * Reverse the migrations.
      */
     public function down(): void
     {
-        Schema::table('m_user', function (Blueprint $table){
-
-        });
+        Schema::dropIfExists('m_user');
     }
 };

@@ -7,7 +7,7 @@
 @vite('resources/js/app.js')
 {{-- Navbar --}}
 @section('content_top_nav_left')
-<h1>Dashboard</h1>
+<h1>Halo</h1>
 @stop
 {{-- Extend and customize the page content header --}}
 @section('content_header')
