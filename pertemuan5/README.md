@@ -15,3 +15,9 @@
 
 2. Hasil setelah submit
    ![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/4edff341-33e3-4a80-99d1-54fe963c3d8a)
+
+### Tugas Praktikum
+Hasil Tugas Praktikum 
+![image](https://github.com/dhoedho1103/Pemrograman-Web-Lanjut/assets/160827276/667ed13d-4d29-4837-9c2b-eea024f3fdc1)
+
+
